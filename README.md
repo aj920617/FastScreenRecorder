@@ -1,5 +1,5 @@
 # FastScreenRecorder
 <br>
-Author- Adil Javed
+Author- Adil
 <br>
 Contributor- Suleman Shah
